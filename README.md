@@ -155,7 +155,7 @@ Hi, my name is Rodrigo and i live in Barcelos, Braga. I am passionate about cybe
 <img 
     align="left" 
     alt="Github stats"
-    height="200"
+    height="175"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=Rodrigordgs11&show_icons=true&theme=tokyonight&include_all_commits=true" 
 />
@@ -163,7 +163,7 @@ Hi, my name is Rodrigo and i live in Barcelos, Braga. I am passionate about cybe
 <img 
     align="left" 
     alt="Github stats"
-    height="200"
+    height="175"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigordgs11&layout=compact&theme=tokyonight&langs_count=8" 
 />
